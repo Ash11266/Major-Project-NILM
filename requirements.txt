@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+jupyter
+ipykernel
+tqdm
+pyyaml
+joblib
+h5py
+pyarrow
