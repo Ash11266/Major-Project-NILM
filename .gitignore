@@ -1,5 +1,11 @@
 # Python virtual environment
-.venv/
+.venv/etc/
+.venv/Include/
+.venv/Lib/
+.venv/man/
+.venv/Scripts/
+.venv/share/
+.venv/pyvenv.cfg
 
 # Python cache
 __pycache__/
@@ -21,3 +27,6 @@ models/
 # Environment variables / secrets
 .env
 .env.*
+
+# All data
+data/

@@ -14,3 +14,5 @@ pyyaml
 joblib
 h5py
 pyarrow
+tables
+nilmtk @ git+https://github.com/nilmtk/nilmtk.git
