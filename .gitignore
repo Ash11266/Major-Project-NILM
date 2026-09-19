@@ -1,4 +1,4 @@
-# Virtual environment
+# Python virtual environment
 .venv/
 
 # Python cache
@@ -8,16 +8,22 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Large UK-DALE dataset files
-data/**/*.h5
-data/**/*.zip
+# All local datasets
+data/
 
-# Raw dataset files
-data/ukdale_raw/
+# Local NILMTK source repository
+nilmtk/
+
+# Trained models
+models/
+*.pt
+*.pth
+*.onnx
+
+# Environment variables / secrets
+.env
+.env.*
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Local NILMTK source repository
-nilmtk/

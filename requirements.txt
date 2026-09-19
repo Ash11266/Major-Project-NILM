@@ -1,0 +1,18 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+jupyter
+ipykernel
+tqdm
+pyyaml
+joblib
+h5py
+pyarrow
+tables
+nilmtk @ git+https://github.com/nilmtk/nilmtk.git
